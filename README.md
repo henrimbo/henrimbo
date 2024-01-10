@@ -8,7 +8,7 @@ Here's a bit more about me:
 - 🔭 Education: Besides my ongoing Master's program, I also hold a Postgraduate degree in Data Analytics.
 - 🌱 Currently Learning: I'm honing my abilities in Python and SQL and exploring the depths of data analytics.
 - 👯 Collaboration: I'm eager to join forces on projects in data analysis or business intelligence, contributing my growing expertise.
-- 🤔 Seeking Help: If you have any advanced tips on data visualization, Python, or SQL, I'd love to hear them!
+- 🔭 Seeking Help: If you have any advanced tips on data visualization, Python, or SQL, I'd love to hear them!
 - 📫 Contact Me: For collaborations or just a tech or gaming chat, email me at henriquemborges45@hotmail.com.
 - 🎮 Gaming & Connection: If you play Diablo IV, let's connect on Steam and enjoy gameplay together.
 - 🏸 Hobbies: I have a great love for sports. I'm either improving my tennis skills or enjoying a refreshing swim in my leisure time.
